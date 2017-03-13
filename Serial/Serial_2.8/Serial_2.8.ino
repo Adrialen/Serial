@@ -1,6 +1,6 @@
 /************************************************************************************************************************
 **                                                                                                                     ** 
-**                                                      Serial 2.4                                                     ** 
+**                                                      Serial 2.8                                                     ** 
 **                 Quan carreguem el programa volem que ens calculi els KB i MB d'un disc dur de 100GB                 **
 **                                                                                                                     **
 **                                                                                                                     **                                                                                                        
